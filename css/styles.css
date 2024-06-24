@@ -431,7 +431,7 @@ img{
  .effective{
     background-color: linear-gradient(rgba(46, 47, 66, 0.7),
        rgba(46, 47, 66, 0.7)),
-       url(../images/hero-bg-mobl2x.jpg);
+       url(../images/hero-bg-mobl-2x.jpg);
  }
 }
 .title {
@@ -465,7 +465,6 @@ img{
        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
        width: 169px;
        height: 56px;
-       padding: 16px 32px;
        border: none;
        border-radius: 4px;
        text-align: center;
@@ -497,7 +496,7 @@ img{
        .effective {
           background-color: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-             url(../images/hero-bg-tab2x.jpg);
+             url(../images/hero-bg-tab-2x.jpg);
        }
     }
  
@@ -525,7 +524,7 @@ img{
        .effective {
           background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-             url(../images/background2x.jpg)
+             url(../images/background-2x.jpg)
        }
 }
 .title {
